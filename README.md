@@ -1,1 +1,1 @@
-# FlapPY-Bird-NEAT-
+# FlapPY_Bird
